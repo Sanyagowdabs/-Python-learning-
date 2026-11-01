@@ -22,4 +22,3 @@ To strengthen my programming skills and apply Python knowledge to cybersecurity.
 👩‍💻 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sanya-bs-099178385
-Learning consistently, one program at a time!
